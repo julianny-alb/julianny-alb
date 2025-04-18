@@ -12,14 +12,7 @@ Sou a Julianny, tenho 19 anos,
             src="https://custom-icon-badges.demolab.com/github/stars/julianny-alb?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
         />
     </a>
-    <a href="https://github.com/julianny_alb?tab=followers">
-        <img 
-            alt="following" 
-            title="following GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/following/julianny-alb?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
-        />
-    </a>
-    <a href="https://github.com/julianny_alb?tab=followers">
+     <a
         <img 
             alt="followers" 
             title="followers GitHub" 
