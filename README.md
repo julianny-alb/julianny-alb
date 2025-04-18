@@ -71,7 +71,7 @@
     title="Figma"
     width="30px" 
     style="padding-right: 10px;" 
-    scr="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg"
 />
 
 <br/>
