@@ -1,16 +1,22 @@
-## Hi there 👋
+# 👩🏻‍💻 Julianny
 
-<!--
-**julianny-alb/julianny-alb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+`Dev.`
 
-Here are some ideas to get you started:
+Sou a Julianny, tenho 19 anos, 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p>
+    <a href="https://github.com/julianny-alb?tab=repositories&sort=stargazers">
+        <img 
+            alt="Total de estrelas" 
+            title="Total de estrelas GitHub" 
+            src="https://custom-icon-badges.demolab.com/github/stars/julianny-alb?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
+        />
+    </a>
+    <a href="https://github.com/julianny_alb?tab=followers">
+        <img 
+            alt="Seguidores" 
+            title="Me siga no GitHub" 
+            src="https://custom-icon-badges.demolab.com/github/followers/julianny_alb?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
+        />
+    </a>
+</p>
